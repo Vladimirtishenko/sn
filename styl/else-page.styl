@@ -1,0 +1,101 @@
+@import "func.styl"
+
+.party-extension-main
+	width: w 
+	margin: a
+	padding: 30px
+	display: table
+	position:relative
+
+.party-breadcrumps
+	@extend .all-list
+	
+.party-breadcrumps > a 
+	display: inline-block
+	padding-right: 24px
+	position: relative
+	color: grey
+	&:last-child:before
+		display: none
+
+.party-breadcrumps > span
+	display: inline-block
+	padding-right: 24px
+	position: relative
+	padding: 0 10px
+	color: grey
+	&:last-child:before
+		display: none
+
+.party-breadcrumps > a
+	color: linkB
+	text-decoration: underline
+	padding: 0 10px
+	&:hover
+		text-decoration: none
+	&:first-child
+		padding-left: 0
+
+.party-text-field
+	width: 670px
+	float: left
+	
+	
+.party-columm-photo > .party-photo-outer-block
+	padding-bottom: 10px
+	position: relative
+	
+.party-columm-photo
+	display: table
+	float: left
+	margin-left: 30px
+	margin-top:-36px
+	width: 250px
+	border-style: solid
+	border-color: #e8e8e8
+	border-width: 0 1px
+
+.party-columm-smi
+	float: right
+	width: 165px
+
+.party-genimg-for-news
+	width: 350px
+	float: left
+	margin: 0 20px 10px 0
+
+.party-video-for-news
+	width: 100%
+	height: 350px
+	margin-bottom: 20px
+
+.party-news-for-text
+	margin-bottom:30px
+
+.wrapper
+	position: relative
+	z-index: 1
+	left: 0
+	width: 100%
+	overflow: hidden
+	
+
+.party-text-field .wrapper
+	height: 600px
+
+.scroller 
+	position: absolute
+	z-index: 1
+	width: 100%
+	transform: translateZ(0)
+	user-select: none
+	text-size-adjust: none
+	padding: 0 20px 10px 0
+
+.iScrollVerticalScrollbar
+	width: 6px
+	background: #e8e8e8
+
+.iScrollIndicator
+	width: 6px
+	background: #5d6b74

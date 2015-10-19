@@ -1,0 +1,96 @@
+a:6:{s:6:"config";a:4:{s:10:"phpVersion";s:6:"5.2.17";s:10:"yiiVersion";s:6:"1.1.16";s:11:"application";a:4:{s:3:"yii";s:6:"1.1.16";s:4:"name";s:18:"My Web Application";s:8:"timezone";s:15:"Europe/Helsinki";s:5:"debug";b:1;}s:3:"php";a:4:{s:7:"version";s:6:"5.2.17";s:6:"xdebug";b:0;s:3:"apc";b:0;s:8:"memcache";b:0;}}s:7:"request";a:13:{s:7:"flashes";a:0:{}s:10:"statusCode";N;s:14:"requestHeaders";a:8:{s:4:"Host";s:10:"s-n.org.ua";s:9:"X-Real-IP";s:12:"136.243.5.87";s:15:"X-Forwarded-For";s:12:"136.243.5.87";s:10:"Connection";s:5:"close";s:10:"User-Agent";s:79:"Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)";s:6:"Accept";s:193:"text/html,text/plain,text/xml,text/*,application/xml,application/xhtml+xml,application/rss+xml,application/atom+xml,application/rdf+xml,application/php,application/x-php,application/x-httpd-php";s:15:"Accept-Encoding";s:4:"gzip";s:15:"Accept-Language";s:2:"uk";}s:15:"responseHeaders";a:6:{s:12:"X-Powered-By";s:10:"PHP/5.2.17";s:10:"Set-Cookie";a:2:{i:0;s:50:"PHPSESSID=048e72dfb22404a89f9b5036037cec3d; path=/";i:1;s:115:"language=c80295a589ded56ca8932897e2fd9f0b673e6d3ds%3A2%3A%22ru%22%3B; expires=Mon, 17-Oct-2016 14:39:21 GMT; path=/";}s:7:"Expires";s:29:"Thu, 19 Nov 1981 08:52:00 GMT";s:13:"Cache-Control";s:62:"no-store, no-cache, must-revalidate, post-check=0, pre-check=0";s:6:"Pragma";s:8:"no-cache";s:12:"Content-type";s:9:"text/html";}s:5:"route";s:10:"site/index";s:6:"action";s:29:"SiteController::actionIndex()";s:12:"actionParams";a:3:{s:1:"m";s:2:"04";s:1:"y";s:4:"2018";s:8:"language";s:2:"ru";}s:6:"SERVER";a:34:{s:18:"REDIRECT_UNIQUE_ID";s:24:"ViOvGVvbHBkAAALnSnYAAAAN";s:15:"REDIRECT_STATUS";s:3:"200";s:9:"UNIQUE_ID";s:24:"ViOvGVvbHBkAAALnSnYAAAAN";s:9:"HTTP_HOST";s:10:"s-n.org.ua";s:14:"HTTP_X_REAL_IP";s:12:"136.243.5.87";s:20:"HTTP_X_FORWARDED_FOR";s:12:"136.243.5.87";s:15:"HTTP_CONNECTION";s:5:"close";s:15:"HTTP_USER_AGENT";s:79:"Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)";s:11:"HTTP_ACCEPT";s:193:"text/html,text/plain,text/xml,text/*,application/xml,application/xhtml+xml,application/rss+xml,application/atom+xml,application/rdf+xml,application/php,application/x-php,application/x-httpd-php";s:20:"HTTP_ACCEPT_ENCODING";s:4:"gzip";s:20:"HTTP_ACCEPT_LANGUAGE";s:2:"uk";s:4:"PATH";s:28:"/usr/local/bin:/usr/bin:/bin";s:16:"SERVER_SIGNATURE";s:57:"<address>Apache/2 Server at s-n.org.ua Port 80</address>
+";s:15:"SERVER_SOFTWARE";s:8:"Apache/2";s:11:"SERVER_NAME";s:10:"s-n.org.ua";s:11:"SERVER_ADDR";s:12:"91.219.28.25";s:11:"SERVER_PORT";s:2:"80";s:11:"REMOTE_ADDR";s:12:"136.243.5.87";s:13:"DOCUMENT_ROOT";s:44:"/home/snorgua/domains/s-n.org.ua/public_html";s:12:"SERVER_ADMIN";s:20:"webmaster@s-n.org.ua";s:15:"SCRIPT_FILENAME";s:54:"/home/snorgua/domains/s-n.org.ua/public_html/index.php";s:11:"REMOTE_PORT";s:5:"48830";s:21:"REDIRECT_QUERY_STRING";s:11:"m=04&y=2018";s:12:"REDIRECT_URL";s:8:"/ru.html";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.0";s:14:"REQUEST_METHOD";s:3:"GET";s:12:"QUERY_STRING";s:11:"m=04&y=2018";s:11:"REQUEST_URI";s:20:"/ru.html?m=04&y=2018";s:11:"SCRIPT_NAME";s:10:"/index.php";s:8:"PHP_SELF";s:10:"/index.php";s:12:"REQUEST_TIME";i:1445179161;s:4:"argv";a:1:{i:0;s:11:"m=04&y=2018";}s:4:"argc";i:1;}s:3:"GET";a:3:{s:1:"m";s:2:"04";s:1:"y";s:4:"2018";s:8:"language";s:2:"ru";}s:4:"POST";a:0:{}s:6:"COOKIE";a:0:{}s:5:"FILES";a:0:{}s:7:"SESSION";a:1:{s:40:"70f0ac6320bdb2e6db631d300119f679language";s:2:"ru";}}s:3:"log";a:1:{s:8:"messages";a:39:{i:0;a:4:{i:0;s:100:"Loading "debug" application component
+in /home/snorgua/domains/s-n.org.ua/public_html/index.php (13)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1445179161.662036895751953125;}i:1;a:4:{i:0;s:204:"Loading "urlManager" application component
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/extensions/yii2-debug/Yii2Debug.php (99)
+in /home/snorgua/domains/s-n.org.ua/public_html/index.php (13)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1445179161.6693019866943359375;}i:2;a:4:{i:0;s:339:"Loading "request" application component
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/extensions/yii2-debug/Yii2Debug.php (297)
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/extensions/yii2-debug/Yii2Debug.php (160)
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/extensions/yii2-debug/Yii2Debug.php (108)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1445179161.673799991607666015625;}i:3;a:4:{i:0;s:98:"Loading "log" application component
+in /home/snorgua/domains/s-n.org.ua/public_html/index.php (13)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1445179161.6760890483856201171875;}i:4;a:4:{i:0;s:188:"Loading "user" application component
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/components/Controller.php (37)
+in /home/snorgua/domains/s-n.org.ua/public_html/index.php (13)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1445179161.68210506439208984375;}i:5;a:4:{i:0;s:191:"Loading "session" application component
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/components/Controller.php (37)
+in /home/snorgua/domains/s-n.org.ua/public_html/index.php (13)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1445179161.68385410308837890625;}i:6;a:4:{i:0;s:199:"Loading "securityManager" application component
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/components/Controller.php (37)
+in /home/snorgua/domains/s-n.org.ua/public_html/index.php (13)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1445179161.685205936431884765625;}i:7;a:4:{i:0;s:198:"Loading "statePersister" application component
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/components/Controller.php (40)
+in /home/snorgua/domains/s-n.org.ua/public_html/index.php (13)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1445179161.6868569850921630859375;}i:8;a:4:{i:0;s:173:"About.findByPk()
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/controllers/SiteController.php (30)
+in /home/snorgua/domains/s-n.org.ua/public_html/index.php (13)";i:1;s:5:"trace";i:2;s:26:"system.db.ar.CActiveRecord";i:3;d:1445179161.6922700405120849609375;}i:9;a:4:{i:0;s:191:"Loading "db" application component
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/controllers/SiteController.php (30)
+in /home/snorgua/domains/s-n.org.ua/public_html/index.php (13)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1445179161.692368030548095703125;}i:10;a:4:{i:0;s:178:"Opening DB connection
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/controllers/SiteController.php (30)
+in /home/snorgua/domains/s-n.org.ua/public_html/index.php (13)";i:1;s:5:"trace";i:2;s:23:"system.db.CDbConnection";i:3;d:1445179161.6933310031890869140625;}i:11;a:4:{i:0;s:201:"Querying SQL: SHOW FULL COLUMNS FROM `about`
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/controllers/SiteController.php (30)
+in /home/snorgua/domains/s-n.org.ua/public_html/index.php (13)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1445179161.6998341083526611328125;}i:12;a:4:{i:0;s:196:"Querying SQL: SHOW CREATE TABLE `about`
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/controllers/SiteController.php (30)
+in /home/snorgua/domains/s-n.org.ua/public_html/index.php (13)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1445179161.7068150043487548828125;}i:13;a:4:{i:0;s:223:"Querying SQL: SELECT * FROM `about` `t` WHERE `t`.`id`='1' LIMIT 1
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/controllers/SiteController.php (30)
+in /home/snorgua/domains/s-n.org.ua/public_html/index.php (13)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1445179161.7082369327545166015625;}i:14;a:4:{i:0;s:172:"Video.findAll()
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/controllers/SiteController.php (34)
+in /home/snorgua/domains/s-n.org.ua/public_html/index.php (13)";i:1;s:5:"trace";i:2;s:26:"system.db.ar.CActiveRecord";i:3;d:1445179161.7094089984893798828125;}i:15;a:4:{i:0;s:201:"Querying SQL: SHOW FULL COLUMNS FROM `video`
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/controllers/SiteController.php (34)
+in /home/snorgua/domains/s-n.org.ua/public_html/index.php (13)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1445179161.7096331119537353515625;}i:16;a:4:{i:0;s:196:"Querying SQL: SHOW CREATE TABLE `video`
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/controllers/SiteController.php (34)
+in /home/snorgua/domains/s-n.org.ua/public_html/index.php (13)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1445179161.7145900726318359375;}i:17;a:4:{i:0;s:221:"Querying SQL: SELECT * FROM `video` `t` GROUP BY id DESC LIMIT 2
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/controllers/SiteController.php (34)
+in /home/snorgua/domains/s-n.org.ua/public_html/index.php (13)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1445179161.7149860858917236328125;}i:18;a:4:{i:0;s:171:"News.findAll()
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/controllers/SiteController.php (38)
+in /home/snorgua/domains/s-n.org.ua/public_html/index.php (13)";i:1;s:5:"trace";i:2;s:26:"system.db.ar.CActiveRecord";i:3;d:1445179161.7164790630340576171875;}i:19;a:4:{i:0;s:200:"Querying SQL: SHOW FULL COLUMNS FROM `news`
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/controllers/SiteController.php (38)
+in /home/snorgua/domains/s-n.org.ua/public_html/index.php (13)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1445179161.716703891754150390625;}i:20;a:4:{i:0;s:195:"Querying SQL: SHOW CREATE TABLE `news`
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/controllers/SiteController.php (38)
+in /home/snorgua/domains/s-n.org.ua/public_html/index.php (13)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1445179161.7230699062347412109375;}i:21;a:4:{i:0;s:249:"Querying SQL: SELECT * FROM `news` `t` WHERE region_id = :region_id GROUP BY id DESC LIMIT 3
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/controllers/SiteController.php (38)
+in /home/snorgua/domains/s-n.org.ua/public_html/index.php (13)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1445179161.7239201068878173828125;}i:22;a:4:{i:0;s:281:"Loading "messages" application component
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/views/site/index.php (20)
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/controllers/SiteController.php (39)
+in /home/snorgua/domains/s-n.org.ua/public_html/index.php (13)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1445179161.7300350666046142578125;}i:23;a:4:{i:0;s:286:"Loading "widgetFactory" application component
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/views/site/index.php (25)
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/controllers/SiteController.php (39)
+in /home/snorgua/domains/s-n.org.ua/public_html/index.php (13)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1445179161.731297016143798828125;}i:24;a:4:{i:0;s:293:"News.findAll()
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/components/widgets/CalendarWidget.php (11)
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/views/site/index.php (25)
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/controllers/SiteController.php (39)";i:1;s:5:"trace";i:2;s:26:"system.db.ar.CActiveRecord";i:3;d:1445179161.7329280376434326171875;}i:25;a:4:{i:0;s:329:"Querying SQL: SELECT DISTINCT date FROM `news` `t`
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/components/widgets/CalendarWidget.php (11)
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/views/site/index.php (25)
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/controllers/SiteController.php (39)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1445179161.7331769466400146484375;}i:26;a:4:{i:0;s:295:"Front.findAll()
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/components/widgets/FrontWidgetFull.php (10)
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/views/site/index.php (29)
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/controllers/SiteController.php (39)";i:1;s:5:"trace";i:2;s:26:"system.db.ar.CActiveRecord";i:3;d:1445179161.7363278865814208984375;}i:27;a:4:{i:0;s:324:"Querying SQL: SHOW FULL COLUMNS FROM `front`
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/components/widgets/FrontWidgetFull.php (10)
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/views/site/index.php (29)
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/controllers/SiteController.php (39)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1445179161.736589908599853515625;}i:28;a:4:{i:0;s:319:"Querying SQL: SHOW CREATE TABLE `front`
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/components/widgets/FrontWidgetFull.php (10)
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/views/site/index.php (29)
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/controllers/SiteController.php (39)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1445179161.74666309356689453125;}i:29;a:4:{i:0;s:346:"Querying SQL: SELECT * FROM `front` `t` WHERE on_front = :on_front
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/components/widgets/FrontWidgetFull.php (10)
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/views/site/index.php (29)
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/controllers/SiteController.php (39)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1445179161.7472999095916748046875;}i:30;a:4:{i:0;s:288:"News.findAll()
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/components/widgets/SmiWidget.php (11)
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/views/site/index.php (33)
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/controllers/SiteController.php (39)";i:1;s:5:"trace";i:2;s:26:"system.db.ar.CActiveRecord";i:3;d:1445179161.7510321140289306640625;}i:31;a:4:{i:0;s:355:"Querying SQL: SELECT * FROM `news` `t` WHERE is_main = 1 ORDER BY id DESC LIMIT 7
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/components/widgets/SmiWidget.php (11)
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/views/site/index.php (33)
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/controllers/SiteController.php (39)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1445179161.75129795074462890625;}i:32;a:4:{i:0;s:300:"PhotoCategory.findAll()
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/components/widgets/AlbumsWidget.php (10)
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/views/site/index.php (47)
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/controllers/SiteController.php (39)";i:1;s:5:"trace";i:2;s:26:"system.db.ar.CActiveRecord";i:3;d:1445179161.7549240589141845703125;}i:33;a:4:{i:0;s:330:"Querying SQL: SHOW FULL COLUMNS FROM `photo_category`
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/components/widgets/AlbumsWidget.php (10)
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/views/site/index.php (47)
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/controllers/SiteController.php (39)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1445179161.755300045013427734375;}i:34;a:4:{i:0;s:325:"Querying SQL: SHOW CREATE TABLE `photo_category`
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/components/widgets/AlbumsWidget.php (10)
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/views/site/index.php (47)
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/controllers/SiteController.php (39)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1445179161.763206005096435546875;}i:35;a:4:{i:0;s:350:"Querying SQL: SELECT * FROM `photo_category` `t` GROUP BY id DESC LIMIT 2
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/components/widgets/AlbumsWidget.php (10)
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/views/site/index.php (47)
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/controllers/SiteController.php (39)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1445179161.7637279033660888671875;}i:36;a:4:{i:0;s:291:"Front.findAll()
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/components/widgets/FrontWidget.php (10)
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/views/site/index.php (61)
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/controllers/SiteController.php (39)";i:1;s:5:"trace";i:2;s:26:"system.db.ar.CActiveRecord";i:3;d:1445179161.7659149169921875;}i:37;a:4:{i:0;s:342:"Querying SQL: SELECT * FROM `front` `t` WHERE on_front = :on_front
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/components/widgets/FrontWidget.php (10)
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/views/site/index.php (61)
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/controllers/SiteController.php (39)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1445179161.7661468982696533203125;}i:38;a:4:{i:0;s:287:"Loading "clientScript" application component
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/views/layouts/main.php (82)
+in /home/snorgua/domains/s-n.org.ua/public_html/protected/controllers/SiteController.php (39)
+in /home/snorgua/domains/s-n.org.ua/public_html/index.php (13)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1445179161.7724859714508056640625;}}}s:9:"profiling";a:3:{s:6:"memory";i:5542252;s:4:"time";d:0.1268780231475830078125;s:8:"messages";a:0:{}}s:2:"db";a:2:{s:8:"messages";a:0:{}s:11:"connections";a:1:{s:2:"db";a:4:{s:5:"class";s:13:"CDbConnection";s:6:"driver";s:5:"mysql";s:6:"server";s:6:"5.5.31";s:4:"info";s:155:"Uptime: 1950026  Threads: 17  Questions: 488828065  Slow queries: 231  Opens: 1676500  Flush tables: 1  Open tables: 10240  Queries per second avg: 250.677";}}}s:7:"summary";a:7:{s:3:"tag";s:13:"5623af19a2427";s:3:"url";s:37:"http://s-n.org.ua/ru.html?m=04&y=2018";s:4:"ajax";b:0;s:6:"method";s:3:"GET";s:4:"code";N;s:2:"ip";s:12:"136.243.5.87";s:4:"time";i:1445179161;}}

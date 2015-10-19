@@ -1,0 +1,172 @@
+@import 'func.styl'
+
+@font-face
+    font-family: "GothamProNarrowBold"
+    src: url("../font/GothamProNarrowBold.eot")
+    src: url("../font/GothamProNarrowBold.eot?#iefix")format("embedded-opentype"),
+    url("../font/GothamProNarrowBold.woff") format("woff"),
+    url("../font/GothamProNarrowBold.ttf") format("truetype")
+    font-style: normal
+    font-weight: normal
+
+@font-face 
+    font-family: "GothamProNarrowMedium"
+    src: url("../font/GothamProNarrowMedium.eot")
+    src: url("../font/GothamProNarrowMedium.eot?#iefix")format("embedded-opentype"),
+    url("../font/GothamProNarrowMedium.woff") format("woff"),
+    url("../font/GothamProNarrowMedium.ttf") format("truetype")
+    font-style: normal
+    font-weight: normal
+    
+::-webkit-input-placeholder 
+::-moz-placeholder          
+:-moz-placeholder           
+:-ms-input-placeholder      
+    color:noActive
+
+*
+    box-sizing: border-box 
+
+body,html
+    font-size: 12px
+    font-family: standart
+    font-style: normal
+    font-weight: normal
+    color: #151515
+    height: 100%
+    min-height:100%
+
+h1,h2,h3
+    font-family: bold
+    padding: 0
+    margin: 0
+    text-transform: uppercase
+
+h1
+    font-size: 40px
+    padding: 10px 0 35px 0
+
+h2
+    font-size: 20px
+    
+h3
+    font-size: 17px
+
+h4,h5,h6
+    font-family: bold
+    padding: 0
+    margin: 0
+    text-transform: uppercase
+    
+p
+    padding: 0
+    margin: 0
+   
+button, input, select, textarea
+    border: none;
+    box-shadow: none
+    outline: none
+    display: inline-block
+
+a:not(.no-active-color)
+    color: #fff
+    text-decoration: underline
+a:hover
+        text-decoration: none;
+        color: #fff
+
+.no-active-color
+    color: noActive
+    cursor: default  
+    text-decoration: none
+    &:hover
+        color: noActive
+        cursor: default  
+        text-decoration: none
+
+.blue
+    color: linkB i
+    font-size: 13px
+    text-transform: none
+    font-family: standart
+    text-decoration: underline i
+    &:hover
+       text-decoration: none i  
+
+.grey
+    color: defaultColor i
+    font-size: 13px
+    text-transform: none
+    font-family: standart
+    text-decoration: underline i
+    &:hover
+       text-decoration: none i  
+
+.orange
+    color: linkO i
+    font-size: 13px 
+    text-transform: none
+    font-family: standart
+    &:hover
+       text-decoration: none i 
+
+.active-blue
+    color: noActive 
+    text-decoration: none
+    font-family: standart
+    &:hover
+        color: noActive
+        text-decoration: underline
+
+.btn-blue
+    background: buttonBlue
+    color: #fff
+    font-size: 12px
+    text-decoration: none !important
+    padding: 15px 20px 13px
+    &:hover
+    	background: #83929b
+        
+.btn-green
+    background: buttonGreen
+    color: #fff
+    font-size: 12px
+    text-decoration: none !important
+    padding: 15px 20px 13px
+    &:hover
+        background: #83929b   
+    
+.btn-orange
+    background: buttonOrange
+    color: #fff
+    font-size: 12px
+    text-decoration: none !important
+    padding: 15px 20px 13px
+    &:hover
+    	background: #83929b
+            
+.btn-grey
+    background: #83929b
+    color: #fff
+    font-size: 12px
+    text-decoration: none !important
+    padding: 15px 20px 13px
+    &:hover
+        background: #49555d
+        
+
+.btn-red
+    background: rgba(255, 87, 94, 0.59);
+    color: #fff
+    font-size: 12px
+    text-decoration: none !important
+    padding: 15px 20px 13px
+    &:hover
+        background: #49555d
+
+.date
+    color: #6f6f6f
+    
+.party-outers-footer-usualy-bottom
+    min-height: 100%
+    padding: 0 0 195px 0

@@ -1,0 +1,33 @@
+@import "func.styl"
+
+.party-pagination
+	width: 100%
+	display: table
+	text-align: center
+	
+.party-pagination ul
+	@extends .all-list
+
+.party-pagination ul li
+	display: inline-block	
+
+.party-pagination ul li a
+	color: grey
+	text-decoration:none
+	padding: 6px 9px
+	&:hover 
+		text-decoration: underline
+		color: linkB 
+
+.party-next-pagination a, .party-prev-pagination a
+	color: linkB i
+	text-decoration:underline i
+	&:hover
+		text-decoration:none i
+	
+.party-active-pagination a
+	border: 1px solid #eee
+	&:hover
+		color: grey i 
+		text-decoration: none i 
+		cursor: default i

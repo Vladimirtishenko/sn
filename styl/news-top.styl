@@ -1,0 +1,129 @@
+@import "func.styl"
+
+.party-news-block
+	width: w
+	margin: 0 auto 35px
+	display: table
+	padding: 0 30px
+	
+	
+.party-item-list
+	position: relative
+	background: #1696dd
+	&:hover img
+		opacity: .5
+	
+.party-item-list img
+	// height:100%
+	width: 110%
+
+.width-0
+	width: 680px
+	height: 450px
+	overflow: hidden
+	float:left
+
+.width-0 img
+	width: 100% i
+	
+.width-1
+	width: 435px
+	height: 290px
+	float:right
+	overflow: hidden
+	
+.width-2
+	width: 205px
+	height: 135px
+	overflow: hidden
+	float:right
+	margin-top: 25px
+
+.width-3
+	width: 410px
+	height: 290px
+	float:left
+	overflow: hidden
+	margin-bottom: 30px
+	&:nth-child(2n+2)
+		float: right
+		
+.party-news-block .party-link-news
+	margin-right: 25px
+
+.party-link-news
+	width: 205px
+	height: 135px
+	float:right
+	margin-top: 25px
+	background: buttonGreen
+	display: table
+	text-align: center
+	text-decoration: none !important
+	&:hover
+		background: #5d6b74
+
+.party-link-news h3
+	display: table-cell
+	vertical-align: middle
+	
+.party-link-news h3 span
+	width: 100%
+	display: inline-block
+	margin-top: 10px
+	
+.party-link-news h3 i
+	font-size: 20px
+
+.party-description-news
+	position: absolute
+	bottom:30px
+	left: 30px
+	width: 50%
+
+.party-description-news p
+	background: #fff
+	display: inline-block
+	margin-bottom: 10px
+	color: #6f6f6f
+	padding: 3px 5px 2px
+	
+.party-description-news h3
+	color: #151515
+	padding: 2px 0 0px 5px
+	position: relative
+	display: table
+	overflow: hidden
+	&:before
+		position: absolute
+		content: ""
+		height: 100%
+		left: 0
+		width: 5px
+		top: 0
+		background: #fff
+	
+.party-description-news	span
+	background: #fff
+	padding: 5px 0 5px
+	line-height: 22px
+	white-space: pre-wrap
+		
+.width-2 .party-description-news h3
+	font-size: 13px !important
+	font-family: Arial !important
+	text-transform: none !important
+	padding: 0px 0px 2px 5px !important
+
+.width-2 .party-description-news
+	width:80%
+	bottom: 10px
+	left: 10px
+
+.width-2 .party-description-news h3 span
+	line-height:15px
+	padding: 0px 0 2px 0
+
+.width-2 .party-description-news p 
+	margin-bottom: 0
+
